@@ -2,7 +2,7 @@
 
 I’m a senior at Rice University majoring in Computer Science and Statistics with a minor in Data Science. I’m passionate about learning and applying modern technologies in data science, ML, and AI to solve real-world problems and create positive social impact in fields like healthcare, medicine, and beyond.
 
-I'm currently working as a Software Engineer Intern at GE HealthCare, developing machine learning tools to improve diagnostics for CT scanner systems. During the school year, I'm involved in research in the Optima Lab at Rice University where I am currently working on algorithms for compression and optimization of large-scale neural networks, and I lead Biokind Analytics, a nonprofit that provides data analysis services for healthcare-focused nonprofit organizations.
+I'm currently working as a Software Engineer Intern at GE HealthCare, developing machine learning tools to improve diagnostics for CT scanner systems. During the school year, I'm involved in research in the Optima Lab at Rice University where I am currently working on algorithms for compression of large-scale neural networks, and I lead Biokind Analytics, a nonprofit that provides data analysis services for healthcare-focused nonprofit organizations.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abbas-t-shaikh/) or reach out via [email](mailto:abbas.tamim.shaikh@gmail.com), and check out some of my projects below!
 
